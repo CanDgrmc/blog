@@ -1,4 +1,4 @@
-baseURL = "https://candgrmc.github.io/hugoBlog"
+baseURL = "https://candgrmc.github.io/blog"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Can Doğramacı"
